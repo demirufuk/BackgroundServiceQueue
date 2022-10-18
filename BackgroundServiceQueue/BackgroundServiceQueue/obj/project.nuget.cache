@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6XZyVMudIAOY+PFhOz19f0uUMt/emqrZygdwXS0uNAU5XRpUGcwKEIQJlhgTcbW2j3GGgwS1JyOw5ipdEi7KIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Seyfi\\source\\repos\\BackgroundServiceQueue\\BackgroundServiceQueue\\BackgroundServiceQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seyfi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Seyfi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Seyfi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Seyfi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Seyfi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Seyfi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
